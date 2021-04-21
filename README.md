@@ -1,14 +1,7 @@
-I am creater @D3_krish of this bot any questions then you join
-This group in telegram:- @legend_mafiabot_support
-
-<!---
-legend-ctrl/legend-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/D3krish0P/legendMAFIA-USERBOT/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-USERBOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/D3krish/legend MAFIABOT)
-[![HitCount](http://hits.dwyl.com/D3_krish0P/legendMAFIA-USERBOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT)
+![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIABOT)
+[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-USERBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
 
 
@@ -16,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 # 𝚃𝙷𝙴 legend 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @D3_krish. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![legend MAFIABOT LOGO](https://telegra.ph/file/a3a42fb278b653f537308.jpg](https://t.me/legend_mafiabot_support)
+MafiaBot made by @H1M4N5HU0P and @D3_krish . Supported by respective hellbot owner @D3_krish. Join for update related info channel and group :- https://t.me/@legend_mafiabot_support THANKS FOR VISITING OUR REPO💖
+[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/legend_mafiabot_support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -26,8 +19,7 @@ MafiaBot made by @D3_krish. Supported by respective hellbot owner @H1M4N5HU0P. J
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/legend_mafiabot_support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
-
+<h2 align="center"> <a href="https://t.me/legend_mafiabot_support">☢️JOIN  legend MAFIABOT SUPPORT☢️</a></h
 </details>
 
 
@@ -38,12 +30,12 @@ MafiaBot made by @D3_krish. Supported by respective hellbot owner @H1M4N5HU0P. J
   <summary> • INSTALLING • </summary>
 
 ### The Easy Way
-<i> i am king<\i>
+
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FD3krish%2FlegendMAFIABOT&template=https%3A%2F%2Fgithub.com%2D3_krish0P%2FlegendMAFIABOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIABOT&template=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIABOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
-<h2 align="center"> <a href="https://github.com/D3_krish/Legend MAFIA-USERBOT">⚡ LEGENd 𝙼𝙰𝙵𝙸𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/H1M4N5HU0P/MAFIA-USERBOT">⚡ 𝙼𝙰𝙵𝙸𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
 
 </details>
 
@@ -61,7 +53,7 @@ MafiaBot made by @D3_krish. Supported by respective hellbot owner @H1M4N5HU0P. J
 
 Simply clone the repository and run the main file:
 sh
-git clone https://github.com/D3_krish/legendMAFIABOT
+git clone https://github.com/H1M4N5HU0P/MAFIABOT
 cd MAFIABOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -119,10 +111,10 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 D3_krish
+Copyright (C) 2021 H1M4N5HU0P
 
-Poject [legendMAFIABOT](https://github.com/D3_kriah/LegendMAFIABOT) is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
+Poject [legend MAFIABOT](https://github.com/H1M4N5HU0P/MAFIABOT) is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
 
 the Free Software Foundation, either version 3 of the License, or
 
