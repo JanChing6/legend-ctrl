@@ -54,8 +54,8 @@ MafiaBot made by @D3_krish. Supported by respective hellbot owner @H1M4N5HU0P. J
 
 Simply clone the repository and run the main file:
 sh
-git clone https://github.com/H1M4N5HU0P/MAFIABOT
-cd MAFIABOT
+git clone https://github.com/legend-ctrl/legend-ctrl
+cd legendMAFIABOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
