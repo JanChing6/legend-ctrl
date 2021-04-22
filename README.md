@@ -17,7 +17,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![legendBot logo](https://telegra.ph/file/7c8e785761d2bfc9608a8.jpg)](https://t.me/legend_mafiabot_support)
+[![legendBot logo](https://telegra.ph/file/e2541a030af8af9aa309d.jpg)](https://t.me/legend_mafiabot_support)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -63,7 +63,7 @@ notifications in Update Channel.
 
 ```
 
-Official YouTube Channel Of Hêllẞø†.
+Official YouTube Channel Of LEGENDBOt.
 
 Click on the link below to get tutorial on 
 
@@ -71,7 +71,6 @@ How To Deploy legend mafiabot.
 
 ```
 
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
 
 <a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social"></a>
 
