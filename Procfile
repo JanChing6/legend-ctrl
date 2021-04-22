@@ -1,1 +1,1 @@
-worker: bash D3krishbot
+worker: bash legend-ctrl
