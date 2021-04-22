@@ -1,12 +1,3 @@
-worker: bash legendbot
-git add .
-git commit -m "Procfile"
-git push heroku master
-...
------> Procfile declares process types: web, worker
-       Compiled slug size is 10.4MB
------> Launching... done
-       http://strong-stone-297.herokuapp.com deployed to Heroku
-
-To git@heroku.com:strong-stone-297.git
- * [Legend bot]      master -> D3KRISH-op
+release:       ./release-tasks.sh
+worker:        env QUEUE=* bundle exec rake resque:work
+urgentworker:  env QUEUE=urgent bundle exec rake resque:work
