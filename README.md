@@ -1,8 +1,8 @@
 <h3>☣️ The Most Powerfull Userbot ☣️</h3>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/D3KRISH-OP/legend-ctrl?utm_source=github.com&utm_medium=referral&utm_content=D3KRISH-OP/legend-ctrl&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/legend-ctrl/legend-ctrl?utm_source=github.com&utm_medium=referral&utm_content=D3KRISH-OP/legend-ctrl&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/D3KRISH-OP/legend-ctrl)
+![GitHub repo size](https://img.shields.io/github/repo-size/legend-ctrl/legend-ctrl)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legend_mafiabot_support)
 
 <h1 align="center">⚡ legendbot ⚡</h1>
@@ -83,7 +83,7 @@ How To Deploy legend mafiabot.
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FD3krish-OP%2Flegend-ctrl&template=https%3A%2F%2Fgithub.com%2FD3KRISH-OP%2Flegend-ctrl" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegend-ctrl%2Flegend-ctrl&template=https%3A%2F%2Fgithub.com%2Flegend-ctrl%2Flegend-ctrl" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 </a>
 
