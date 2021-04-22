@@ -1,158 +1,138 @@
-name": "LEGEND - UserBot",
- "description": "An advanced Telethon Userbot,made by :-D3rish and Team D3VIL from @legend_mafiabot_support",
- "logo": "https://telegra.ph/file/e2541a030af8af9aa309d.jpg",
- "keywords": [
-  "telegram",
-  "userbot",
-  "TeleBot",
-  "modular",
-  "productivity"
- ],
- "repository": "https://github.com/legend-ctrl/legend-ctrl",
- "website": "https://github.com/legend-ctrl/legend-ctrl",
- "success_url": "https://github.com/legend-ctrl/legend-ctrl",
- "stack": "container",
- "env": {
-  "ENV": {
-   "description": "Setting this to ANYTHING will enable heroku.",
-   "value": "ANYTHING"
-  },
-  "TEMP_DOWNLOAD_DIRECTORY": {
-   "description": "Where downloaded files will go.",
-   "value": "./telebot/DOWNLOADS/",
-   "required": false
-  },
-  "APP_ID": {
-   "description": "Get this value from my.telegram.org! Please do not steal",
-   "value": ""
-  },
-  "API_HASH": {
-   "description": "Get this value from my.telegram.org! Please do not steal",
-   "value": ""
-  },
-  "STRING_SESSION": {
-   "description": "Get this value by running python3 telesetup.py locally or https://telebot-sessionstring-generator.xditya.repl.run online.",
-   "value": ""
-  },  
-  "CUSTOM_PMPERMIT": {
-   "description": "The message that appears when someone PM's you. Leave it as such for default message.",
-   "value": "Do not spam here, else you will be blocked automatically."
-  },  
-  "GITHUB_ACCESS_TOKEN": {
-   "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
-   "value": "",
-   "required": false
-  },
-   "CMD_HNDLR": {
-   "description": "Used to invoke commands, leave blank for default, (dot)",
-   "value": "",
-   "required": false
-  },  
-   "SUDO_HNDLR": {
-   "description": "Used to invoke sudo commands, leave blank for default",
-   "value": "",
-   "required": false
-  },  
-  "GIT_REPO_NAME": {
-   "description": "Your repo name Example: xditya/TeleBot, but GITHUB_ACCESS_TOKEN must be setup first.",
-   "value": "",
-   "required": false
-  },
-  "LYDIA_API_KEY": {
-   "description": "Needed for Lydia AI. Create a Intellivoid Account by visting https://coffeehouse.intellivoid.info/ to get your API.",
-   "value": "",
-   "required": false
-  },
-      "GITA_CLIENT_ID": {
-      "description": "Needed for gita plugin. Follow https://bhagavadgita.io to get yours.",
-      "value":"",
+{
+  "name": "LEGEND BOT",
+  "description": "The best userbot made by @D3_krish...For Support Join @legend_mafiabot_support ",
+  "logo": "https://telegra.ph/file/e2541a030af8af9aa309d.jpg ",
+    "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/legend-ctrl/legend-ctrl",
+  "website": "https://github.com/legend-ctrl/legend-ctrl",
+  "success_url": "https://t.me/@.legend_mafiabot_support",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable heroku.",
+      "value": "ANYTHING"
+    },
+    "TEMP_DOWNLOAD_DIRECTORY": {
+      "description": "Where downloaded files will go.",
+      "value": "./userbot/DOWNLOADS/",
       "required": false
     },
-    "GITA_CLIENT_SECRET":{
-      "description": "Needed for gita plugin. Follow https://bhagavadgita.io to get yours.",
-      "value":"",
+    "ALIVE_NAME": {
+      "description": "Fill your Full name. By default it is Hell User",
+      "value": "",
       "required": false
     },
-  "HEROKU_API_KEY": {
-   "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-   "value": "",
-   "required": true
-  },  
-  "CHROME_BIN": {
-   "description": "Leave as such, Google Chrome (or) Chromium binary location for selenium based modules.",
-   "value": "/usr/bin/google-chrome",
-   "required": false
+    "ALIVE_MSG": {
+      "description": "Set Custom Alive Message When entering .hell Command.",
+      "value": "",
+      "required": false
+    },
+    "ALIVE_PIC": {
+      "description": "Put here any telegraph media link for alive pic in .hell command.",
+      "value": "",
+      "required": false
+    },
+    "PMPERMIT_PIC": {
+      "description": "put here any telegraph media link for custom pmpermit pic.",
+      "value": "",
+      "required": true
+    },
+    "CUSTOM_PMPERMIT": {
+      "description": "Enter Your custom pm permit msg.",
+      "value": "",
+      "required": false
+    },
+    "PM_PERMIT_GROUP_ID": {
+      "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
+      "value": "",
+      "required": true
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
+      "value": ""
+    },
+    "PLUGIN_CHANNEL": {
+      "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "create a private channel and then type .get_id add that value here for save messages",
+      "value": ""
+    },
+    "PRIVATE_GROUP_ID": {
+      "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "value": ""
+    },
+    "PM_LOGGR_BOT_API_ID": {
+       "description": "for login private messages create a private channel and do .get_id and add that id", 
+       "value": ""
+    }, 
+    "STRING_SESSION": {
+      "description": "Get this value by running https://repl.it/legend-ctrl/legend-ctrl#main.py ",
+      "value": ""
+    },
+    "HEROKU_API_KEY": {
+      "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
+      "value": "",
+      "required": true
+    },
+    "HEROKU_APP_NAME": {
+      "description": "The Value of App Name you filled in right on top.Required for updater to work.",
+      "value": "",
+      "required": true
+    },
+    "TG_BOT_TOKEN_BF_HER": {
+      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
+      "value": ""
+    },
+    "CHROME_BIN": {
+      "description": "For Carbon.py. Leave as it is. ",
+      "value": "/app/.apt/usr/bin/google-chrome",
+      "required": false
+    },
+    "CHROME_DRIVER": {
+      "description": "For Carbon.py. Leave as it is. ",
+      "value": "/app/.chromedriver/bin/chromedriver",
+      "required": false
+    },
+    "TG_BOT_USER_NAME_BF_HER": {
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
+      "value": ""
+    },
+    "TZ": {
+      "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
+      "value": "Asia/Kolkata",
+      "required": false
+    }
   },
-  "CHROME_DRIVER": {
-   "description": "Leave as such, ChromeDriver location for selenium based modules",
-   "value": "/usr/bin/chromedriver",
-   "required": false
-  },
-  "SUDO_USERS": {
-   "description": "Users you want to give access to your bot. (Don't allow unknown people)",
-   "value": "",
-   "required": false
-  },
-  "PRIVATE_GROUP_ID": {
-   "description": "ID of your private log channel/group. Read https://telegra.ph/TeleBot-Setup-06-06 for details.",
-   "value": "",
-   "required": true
-  },
-  "HEROKU_APP_NAME": {
-   "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-   "value": "",
-   "required": true
-  },
-  "TG_BOT_TOKEN_BF_HER": {
-   "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the token of your bot.",
-   "value": "",
-   "required": true
-  },
-  "TG_BOT_USER_NAME_BF_HER": {
-   "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot. Needed for .help to work.",
-   "value": "",
-   "required": true
-  },
-  "ALIVE_NAME": {
-   "description": "Your Telegram Profile name. (not @username). ",
-   "value": "",
-   "required": false
-  },  
-  "MAX_SPAM": {
-   "description": "Number of messages one can send in your PM before being approved. By default, it is 3.",
-   "value": "3",
-   "required": false
-  },
-  "OCR_SPACE_API_KEY": {
-   "description": "Required for OCR functionality. Get from https://ocr.space/ocrapi",
-   "value": "",
-   "required": false
-  },
-  "REM_BG_API_KEY": {
-   "description": "Required for Removing image background functionality. Get from https://www.remove.bg/",
-   "value": "",
-   "required": false
-  },
-  "ALIVE_PIC": {
-   "description": "telegra.ph link to theimage you want as alive pic, leave blank for sticker",
-   "value": "",
-   "required": false
-  },
-  "PMPERMIT_PIC": {
-  "description": "telegra.ph link to theimage you want as pmpermit pic, leave blank for default one!",
-  "value": "",
-  "required": false
-  },
-  "TZ": {
-   "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-   "value": "Asia/Kolkata",
-   "required": false
-  }
- },
- "addons": [{
-  "plan": "heroku-postgresql",
-  "options": {
-   "version": "12"
-  }
- }]
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+  },{
+    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+  },{
+    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+  },{
+    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+  },{
+    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+  },{
+    "url": "heroku/python"
+  }]
 }
