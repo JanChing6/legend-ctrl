@@ -5,13 +5,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/legend-ctrl/legend-ctrl)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legend_mafiabot_support)
 
-<h1 align="center">⚡ legendbot ⚡</h1>
+<h1 align="center">⚡ LEGEND MAFIA BOT⚡</h1>
 
 <h4 align="center">Legendary AF legendBot</h4>
 
 <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
-This is the one and only official HellBot Userbot made by #Team_D3vil.
+This is the one and only official Devil Userbot made by #Team_D3vil.
 
 Don't forget to star this repo if you liked it.
 
