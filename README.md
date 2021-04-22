@@ -1,10 +1,9 @@
 <h3>☣️ The Most Powerfull Userbot ☣️</h3>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/HellBoy-OP/HellBot?utm_source=github.com&utm_medium=referral&utm_content=HellBoy-OP/HellBot&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/D3KRISH-OP/legend-ctrl?utm_source=github.com&utm_medium=referral&utm_content=D3KRISH-OP/legend-ctrl&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/HellBoy-OP/Hellbot)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/kraken_the_badass)
+![GitHub repo size](https://img.shields.io/github/repo-size/D3KRISH-OP/legend-ctrl)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legend_mafiabot_support)
 
 <h1 align="center">⚡ legendbot ⚡</h1>
 
@@ -12,13 +11,13 @@
 
 <h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
 
-This is the one and only official HellBot Userbot made by #Team_HellBoy.
+This is the one and only official HellBot Userbot made by #Team_D3vil.
 
 Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![legendBot logo](https://telegra.ph/file/7c8e785761d2bfc9608a8.jpg)](https://t.me/hellbot_official)
+[![legendBot logo](https://telegra.ph/file/7c8e785761d2bfc9608a8.jpg)](https://t.me/legend_mafiabot_support)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -84,13 +83,13 @@ How To Deploy legend mafiabot.
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FD3krish-OP%2FlegendBot&template=https%3A%2F%2Fgithub.com%2Flegendctrl-OP%2FHellBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FD3krish-OP%2Flegend-ctrl&template=https%3A%2F%2Fgithub.com%2Flegendctrl-OP%2FlegendBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 </a>
 
 <h3 align="center">⚔️ The Normal Way ⚔️</h3>
 
-<h4 align="center">To host Héllẞø† locally or on any other VPS, Go to</h4>
+<h4 align="center">To host Legend Mafia Bot locally or on any other VPS, Go to</h4>
 
 <h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
 
@@ -112,7 +111,7 @@ How To Deploy legend mafiabot.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 HellBoy-OP
+Copyright (C) 2021 D3KRISH-OP
 
 Poject [legend Mafia Bot](https://github.com/legend-ctrl) is free software: you can redistribute it and/or modify
 
