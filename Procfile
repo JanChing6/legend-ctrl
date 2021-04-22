@@ -1,2 +1,0 @@
-
-worker="bash" legend-ctrl
