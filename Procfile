@@ -1,2 +1,2 @@
 
-worker: bash legend-ctrl
+worker="bash" legend-ctrl
