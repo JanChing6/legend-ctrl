@@ -1,1 +1,1 @@
-worker: bash legendbot
+worker: bash legend-ctrl
